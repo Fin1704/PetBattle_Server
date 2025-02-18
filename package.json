@@ -1,0 +1,31 @@
+{
+  "name": "petbattle_server",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Fin1704/PetBattle_Server#readme",
+  "bugs": {
+    "url": "https://github.com/Fin1704/PetBattle_Server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fin1704/PetBattle_Server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "sequelize": "^6.37.5",
+    "web3": "^4.16.0"
+  }
+}
